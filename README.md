@@ -1,4 +1,4 @@
-# PwerBi
+# PowerBi
 
 <p>Dashboard criado com intuito de aprendizado de manuseio da ferramenta
 <p>Curso: Microsoft Power BI para Data Science 2.0 - Capitulo 2
