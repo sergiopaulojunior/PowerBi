@@ -1,6 +1,11 @@
 # PwerBi
 
-Descrição do Problema
+<p>Dashboard criado com intuito de aprendizado de manuseio da ferramenta
+<p>Curso: Microsoft Power BI para Data Science 2.0 - Capitulo 2
+<p>Data Science Academy
+
+
+<h1>Descrição do Problema
 
 ![Descricao_Problema](https://user-images.githubusercontent.com/45541129/142769948-89b13c44-e805-4916-b141-19ca0bc45ec6.JPG)
 
