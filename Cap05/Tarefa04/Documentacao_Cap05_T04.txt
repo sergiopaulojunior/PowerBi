@@ -1,0 +1,33 @@
+Cap05_tarefa04
+
+Etapa 1 - Carregamento de dados
+- verificado configurações regionais (Inglês(Estados Unidos))
+- carregamento arquivo - sustos.csv
+
+Etapa 2 - Limpeza dos dados
+- dados verificados sem necessidade de limpeza
+
+Etapa 3 - Transformação dos dados
+- coluna 'Data' alterada tipo de dados para 'data
+- alterado por localidade, devido a erro exibido a tentar alterar, alterado para Português(Brasil)
+- coluna 'Valor_Venda' alterado tipo de dados para 'decimal'
+- coluna 'Preço_Custo' alterado tipo de dados para 'decimal'
+- coluna 'Preço_Custo' alterado nome para 'Preco_Custo'
+- coluna 'Código' alterado nome para 'Codigo'
+- coluna 'Duração_Venda_Telefone_(mins)' alterado nome para 'Duracao_Venda_Telefone_(mins)'
+- coluna 'Duração_Espera_(mins)' alterado nome para 'Duracao_Espera_(mins)'
+- criado coluna 'Lucro_Produto', lucro entre venda e custo por produto
+- criado medida lucro 'Lucro_Total' da tabela 'Lucro_Produto'
+- criado medida soma 'Soma_Venda' na tabela 'Valor_Venda'
+- criado medida soma 'Preco_Custo' na tabela 'Preco_Custo'
+
+# Como o exercicio não visava nenhum tipo de criação de dashboard, decidi criar um com as vendas em março 
+
+Etapa 4 - Criando dashboard para exibir vendas de março
+- ferramenta 'segmentação de dados' para filtrar a data
+- segmentação de dados, dentro do layout canto superior direito 
+- exibição do valor total vendido em março
+- exibição do valor vendido em março por produto
+- exibição do lucro total em março
+- exibição do lucro por produto em março
+
