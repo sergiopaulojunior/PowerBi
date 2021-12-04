@@ -1,0 +1,41 @@
+Cap 05 - Lab 01
+Análise de séries temporais 'Desemprego'
+
+Etapa 1 - Carregamento dos dados
+- dados carregados do arquivo Desemprego.xls
+
+Etapa 2 - Criação do Dashboard
+- criaçaõ do titulo
+
+- criação grafico de previsão de total de desempregados
+- gráfico de linhas
+- dados: Período, Toatal_Desempregados
+- previsão 8 anos
+- edição do gráfico
+
+- criação gráfico total de desempregados ano, trimestre, mês e faixa etária
+- grafico de área
+- dados: Período, Total_Desempregados
+- Legenda: Range_Idade
+- edição do gráfico
+
+- criação do filtro de seleção de genero
+- gráfico: segmentação de dados
+- dados: Sexo
+
+- criação do filtro de seleção por idade
+- gráfico: segmentação de dados
+- dados: Range_Idade
+
+criação da IA no power BI
+- grafico P e R
+
+Etapa 3 - Execução Performance Analyser
+- visuais analisados
+- IA no Power BI
+- gênero
+- faixa etária
+- previsão total de desempregados
+- total de Desempregados por Ano, Trimestre, Mês e Faixa Etária
+
+- gerado relatório JSON
