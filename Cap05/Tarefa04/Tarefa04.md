@@ -5,6 +5,6 @@
   
 <p>A tarefa 04 não visava a construção de um Dashboard então resolvi criar um com os dados fornecidos para exibir as vendas realizadas no mês de MArço e a utilização da ferramenta 'Segmentação de Dados'.
 
-<h1>Dashboard</h1>
+<h1>Dashboard_V2</h1>
 
-![Dashboard_vendas_marco](https://user-images.githubusercontent.com/45541129/144139910-f8655a49-ed1d-460d-a560-9819107e6dae.JPG)
+![Dashboard_vendas_marco_v2](https://user-images.githubusercontent.com/45541129/144868628-fa269b22-7256-40ac-9b10-a1e63bcebbe2.JPG)
