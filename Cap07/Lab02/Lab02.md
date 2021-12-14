@@ -10,4 +10,6 @@
 
 <h1>Dashboard<h1>
   
-![Dashboard_Lab02](https://user-images.githubusercontent.com/45541129/145910976-fcd7d3dd-82f2-4616-8975-d5b64e543252.JPG)
+![Dashboard_Lab02](https://user-images.githubusercontent.com/45541129/146023301-8255d223-9b22-486b-87e7-7118f2bfecf9.JPG)
+ 
+
