@@ -1,0 +1,20 @@
+Mini Projeto 01 - Google Analytcis
+1 - Como os clientes mais acessam o portal, busca organica ou paga
+2 - Quanto tempo em média um visitante permanece no portal por dia do mês
+3 - Qual  aprincipal fonte de acesso
+4 - Qual SO mais usado para acesso ao portal
+5 - Qual dispositivo mais usado para acesso ao portal
+6 - Qual o total de faturamento por dia
+
+Etapa 1 - Carregamento de dados
+- verificado configurações regionais (Inglês(Estados Unidos))
+- carregamento arquivo - dataset.csv
+
+Etapa 2 - Limpeza e transformação dos dados
+- coluna 'operatingsystem' retirado (b'') dos dados
+- coluna 'source_today' retirado (b'') dos dados
+- coluna1 renomeada para 'ID'
+- coluna 'devicecategory' aplicado 'cada palavra em Maiuscula'
+
+Etapa 3 - Construção Dashboard
+ 
