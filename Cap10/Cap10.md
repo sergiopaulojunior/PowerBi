@@ -6,7 +6,7 @@
 
 <h1>Dashboard</h1>
 
-![Dashboard_Cap10_Tarefa04](https://user-images.githubusercontent.com/45541129/147124588-e4d8e2b7-79b5-4e67-af6a-e4b273374b62.JPG)
+![DashboardVfinal](https://user-images.githubusercontent.com/45541129/147368918-035b4eba-4e16-4cc5-a3fc-4f0f5a56611f.JPG)
 
 <h1>Modelo Físico BD</h1>
 
