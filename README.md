@@ -1,3 +1,3 @@
-# PowerBi - DSA
+# PowerBi
 
-Pasta para armazanamento de projetos do PowerBi do Curso Data Science Academy
+Pasta para armazanamento de projetos do PowerBi
