@@ -1,0 +1,14 @@
+Cap06 - Projeto 01
+
+Etapa 1 - Carregamento de dados
+- verificado configurações regionais (Inglês(Estados Unidos))
+- carregamento arquivo - clientes.csv
+
+Etapa 2 - Limpeza e transformação dos dados
+- tabela 'ID Cliente' alterado tipo de dados para tipo 'texo', renomeado tabela para 'ID_Cliente'
+- tabela 'Idade' alterado tipo de dados para tipo 'texto'
+
+Etapa 3 - Criação dashboard
+- Criação de gráfico Saldo por Cidade: gáfico funil
+- Criação de gráfico Saldo por Idade: gráfico de área, classificado por idade, ordem crescente
+- Criação de gráfico Saldo po Sexo: gráfico de barras

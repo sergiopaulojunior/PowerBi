@@ -1,0 +1,18 @@
+Cap06 - Exercicio
+
+Etapa 1 - Carregamento de dados
+- verificado configurações regionais (Inglês(Estados Unidos))
+- carregamento arquivo - clientes.csv
+
+Etapa 2 - Limpeza e transformação dos dados
+- tabela 'ID Cliente' alterado tipo de dados para tipo 'texo', renomeado tabela para 'ID_Cliente'
+- tabela 'Idade' alterado tipo de dados para tipo 'texto'
+
+Etapa 3 - Criação Dashboard
+- Criação titulo
+- Criado 'Segmentação de dados' por cliente
+- Importação gráfico 'Infographic Design 1.8.9'
+- Criação gráfico 'Saldo por idade e gênero'
+- Criação gráfico 'Saldo por Idade'
+- Criação gráfico 'Saldo por gênero'
+- Criação gráfico 'Saldo por classificação'
