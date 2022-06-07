@@ -8,5 +8,5 @@ Quarta página um relatório com todos os veículos e dados de cada um podendo f
 Quinta página um Top 5 dos veículos podendo filtrar por Classe, Tração e Fonte.
 
 
-Likd do Dashboard
+Link do Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiZmQwNjdhY2ItMmU1ZC00MmE2LWIyZDgtZjg4NGMwZmZmNzkwIiwidCI6IjA0MDJhY2FmLWRhZDgtNDU2YS05ZGYwLWZjYWM3MjI4YjgwNyJ9
