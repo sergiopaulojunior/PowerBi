@@ -1,0 +1,23 @@
+Requisitos do Cliente
+Total monetário de vendas por dia
+Total monetário de vendas por cidade
+Média de valor monetário de vendas por estado
+Média de valor monetário de vendas por produto
+Total de unidades vendidas por estado e por dia
+Total de unidades vendidas por produto
+
+Etapa 1 - Carregamento de dados
+- verificado configurações regionais (Inglês(Estados Unidos))
+- carregamento arquivo - dados_vendas.csv
+
+Etapa 2 - Limpeza e transformação dos dados
+- Coluna 'ID-Venda' alterado tipo de dados para 'texto'
+- Corrigido valor coluna 'Data' linha 19, novo valor '18/03/2020'
+- Coluna 'Data' alterado tipo para 'Data' por localidade Brasil
+- Removido linha 31 que não continha informações sobre 'Cidade' e 'Estado'
+- Removido linha 56 que não continha informações sobre 'Cidade' e 'Estado'
+
+Etapa 3 - Construção Dashboard
+- 
+
+Etapa 4 - Construção Dashboard Mobile

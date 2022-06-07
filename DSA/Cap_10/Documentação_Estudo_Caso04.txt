@@ -1,0 +1,22 @@
+Etapas:
+1 - Definir o Problema
+2 - Modelo lógico
+3 - Modelo Fisico
+4 - Implementação do DW
+5 - ETL
+6 - Visualização e Relatórios
+
+Etapa 01
+- Criação da estrutura do BD
+
+Etapa 02 - ETL - Limpeza nos dados pelo BD
+- Dados Fornecidos tiveram que ser salvos novamente como - csv.(separados por viírgula), encoding(UTF-8)
+devido a erro de acentuação na hora de importar os arquivos, vários erros encontrados todos resolvidos e dados carregados com sucesso.
+
+Etapa 03 - Carregando dados no PowerBI
+- Ao carregar os dados crioi-se uma tabela a mais automaticamente e gerou erro
+- Tabela removida e dados carregados com sucesso
+
+Etapa 04 - Dashboard
+- Gráfico de vendas por ano ( necessário criar uma nova tabela em 'tb_data' apenas com os dados dos anos das vendas)
+- Criado tabela condicional 'ano_cond'
