@@ -1,0 +1,55 @@
+CAP 03
+
+Etapa 1 - Carregando dados
+(configurações regionais(ingles))
+- baixar dados
+- verificar, limpar
+(utf-8) 
+
+Etapa 2 - Criando tabelad DIM e FATO
+- Criar tabelas dimensão
+( duplicar tabela venda, renomear, gerenciar colunas(escolher colunas))
+
+DIM_PRODUTO
+- Id-Produto - String
+- Produto - String
+- Categoria - String
+- Segmento - String
+- Fabricante - String
+
+DIM_LOJA
+- Loja - String
+- Cidade - String
+- Estado - String
+
+DIM_VENDEDOR
+- Vendedor - String
+- ID-Vendedor - Int
+
+DIM_TEMPO
+- Data Venda - Date
+
+Remover registros duplicados de algumas tabelas, Loja, Vendedor, Tempo
+
+Criar Grupo para armazenar tabelas DIM
+
+Criar tabela FATO
+- Contem as chaves primarias das tabelas DIM e o fato em si que sera a venda
+- ID_produto - String - FK
+- Loja - String - FK
+- ID-Vendedor - Int - FK
+- Data Venda - Date - FK
+- ValorVenda - Double - FATO
+
+Criar Grupo para armazenar tabelas FATO
+
+Etapa 3 - Gerenciando Relacionamentos
+- Modelo
+- Seleciona tabela FATO e Gerenciar relações
+- novo
+- seleciona tabelas e colunas
+- seleciona cardinalidade
+
+Etapa 4 - Criação do Dashboard
+
+
