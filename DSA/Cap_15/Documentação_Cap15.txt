@@ -1,0 +1,26 @@
+R Studio 
+# Selecionado pasta para armazenamento dos arquivos
+- Session
+- Set Working Directory
+- PowerBI/Cap15
+- Criado Novo Script R - Mini_Projeto_3.R
+
+# Pacotes Instalados
+install.packages("Amelia") # tratar valores ausentes
+install.packages("caret") # contruir modelos de ML
+install.packages("ggplot2") # construção gráficos
+install.packages("dplyr") # tratar dados
+install.packages("reshape") # modificar formato dos dados
+install.packages("randomForest") # trabalhar com ML
+install.packages("e1071") # trabalhar com ML
+
+# carregado dataset
+# visualizado dados e estruturas
+# descrição das variáveis
+# renomenado colunas
+# verificando valores ausentes
+# transformando dados int -> fatorial
+# removendo valores missing
+
+# Machine Learning
+# criando modelo de treinamento
